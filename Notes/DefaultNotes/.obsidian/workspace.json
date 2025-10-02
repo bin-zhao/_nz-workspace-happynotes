@@ -1,0 +1,394 @@
+{
+  "main": {
+    "id": "eec9f8bc1d0774fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb301bdfcb085cf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5088118953d1fb77",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Australia-NewZealand/_Visa_NewZealand.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "_Visa_NewZealand"
+            }
+          },
+          {
+            "id": "a1c87d396d781732",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Australia-NewZealand/_College.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "_College"
+            }
+          },
+          {
+            "id": "9b81cb28cc22c54a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Australia-NewZealand/_College_专业.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "_College_专业"
+            }
+          },
+          {
+            "id": "be158e18aa46d093",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Australia-NewZealand/IELTS/Notes/Reading - Speaking,Writing.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Reading - Speaking,Writing"
+            }
+          },
+          {
+            "id": "2ab1db0c1b6686c2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Australia-NewZealand/IELTS/Notes/Knowledge.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Knowledge"
+            }
+          },
+          {
+            "id": "fdd6adfae8c38d6d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Australia-NewZealand/IELTS/Notes/Grammar.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Grammar"
+            }
+          },
+          {
+            "id": "d6e0f7c908c88ca0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Australia-NewZealand/IELTS/Vocabulary-Meaning.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Vocabulary-Meaning"
+            }
+          },
+          {
+            "id": "a1c1e2b9a0f39f3c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Australia-NewZealand/IELTS/Notes/Pronunciation-Correct.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Pronunciation-Correct"
+            }
+          },
+          {
+            "id": "9de76694e75ee74b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Australia-NewZealand/IELTS/Notes/Names.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Names"
+            }
+          },
+          {
+            "id": "0b241cdd36342906",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Australia-NewZealand/IELTS/Articles/A Photographer Captures Nature In Mind-Boggling Detail.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A Photographer Captures Nature In Mind-Boggling Detail"
+            }
+          },
+          {
+            "id": "35072bc8f2c45ce4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Australia-NewZealand/IELTS/Articles/65 Genomes Expand Our Picture Of Human Genetics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "65 Genomes Expand Our Picture Of Human Genetics"
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea759ec624eea603",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b47f7462944cda3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a371b21380863e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2b409ac2ce32dd33",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "profound",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2bf1a6da0fba01ea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "50e845865eafaa7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "666719aacb8c278c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56dccb5ff0d618ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "数学/分配律.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 分配律"
+            }
+          },
+          {
+            "id": "66911e329bf2b8b9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "数学/分配律.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 分配律"
+            }
+          },
+          {
+            "id": "08ec0a6c04b34679",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "639fa227855a6fd8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "数学/分配律.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 分配律"
+            }
+          },
+          {
+            "id": "deb0b662abd99b34",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "35072bc8f2c45ce4",
+  "lastOpenFiles": [
+    "World/Australia-NewZealand/IELTS/Articles/A Nagasaki Survivor And Physician Recounts His Life’s Work.md",
+    "World/Australia-NewZealand/IELTS/Articles/65 Genomes Expand Our Picture Of Human Genetics.md",
+    "World/Australia-NewZealand/IELTS/Articles/How The Moon Transformed Life On Earth, From Climate to Timekeeping.md",
+    "World/Australia-NewZealand/IELTS/Articles/A Photographer Captures Nature In Mind-Boggling Detail.md",
+    "World/Australia-NewZealand/IELTS/Articles/A Delicious But Invasive Mushroom Could Affect Fungal Diversity.md",
+    "World/Australia-NewZealand/IELTS/Articles/How Shoddy Science Is Driving A Supplement Boom.md",
+    "World/Australia-NewZealand/IELTS/Notes/Names.md",
+    "World/Australia-NewZealand/IELTS/Notes/Pronunciation-Correct.md",
+    "World/Australia-NewZealand/IELTS/Notes/Grammar.md",
+    "World/Australia-NewZealand/IELTS/Vocabulary-Meaning.md",
+    "World/Australia-NewZealand/IELTS/Notes/Knowledge.md",
+    "World/Australia-NewZealand/IELTS/Articles/Are Food Dyes Really Bad For You.md",
+    "World/Australia-NewZealand/IELTS/Articles/Why Don’t We Have A Vaccine For Lyme Disease.md",
+    "World/Australia-NewZealand/IELTS/Articles/When Headaches Are Ruining Your Life, Where Can You Turn.md",
+    "World/Australia-NewZealand/IELTS/Articles/What Lies Beneath The Outer Layers Of A Star.md",
+    "World/Australia-NewZealand/IELTS/Articles/What Do mRNA Funding Cuts Mean For Future US Research.md",
+    "World/Australia-NewZealand/IELTS/Articles/The Uncertain Science Behind What We Understand As ‘Truth’.md",
+    "World/Australia-NewZealand/IELTS/Articles/The Shape-Shifting Science Of Sand Dunes.md",
+    "World/Australia-NewZealand/IELTS/Articles/Remembering Apollo 13 Astronaut James Lovell.md",
+    "World/Australia-NewZealand/IELTS/Articles/Octopuses Use Suckers To ‘Taste’ Harmful Microbes.md",
+    "World/Australia-NewZealand/IELTS/Articles/mRNA Vaccine For Pancreatic Cancer Continues To Show Promise.md",
+    "World/Australia-NewZealand/IELTS/Articles/Meet 3I-Atlas, An Object From Another Solar System.md",
+    "World/Australia-NewZealand/IELTS/Articles/Lithium May Have A Role In Causing—And Treating—Alzheimer’s.md",
+    "World/Australia-NewZealand/IELTS/Articles/Is This PTSD Treatment Too Good To Be True.md",
+    "World/Australia-NewZealand/IELTS/Articles/Is It Time For A New Model Of The Universe.md",
+    "World/Australia-NewZealand/IELTS/Articles/How Have Gray Wolves Fared 30 Years After Reintroduction.md",
+    "World/Australia-NewZealand/IELTS/Articles/_Attachments/2b0dc62e817fff1b2afcd842dc70aa1c_MD5.jpg",
+    "World/Australia-NewZealand/IELTS/Articles/_Attachments/85eca735934259fdc750f11e3caa82a3_MD5.jpg",
+    "World/Australia-NewZealand/IELTS/Articles/_Attachments/baf032610bb5d67af4dfbaa1711acd08_MD5.jpg",
+    "World/Australia-NewZealand/IELTS/Articles/_Attachments/e62de45ec94f091136cf2a3a70970984_MD5.jpg",
+    "World/Australia-NewZealand/IELTS/Articles/_Attachments/48dbd6d25f5883eb14708424b45ab4b3_MD5.jpg",
+    "World/Australia-NewZealand/IELTS/Articles/_Attachments/21bf79ab164a77770e2c0f15373bfba4_MD5.gif",
+    "World/Australia-NewZealand/IELTS/Articles/_Attachments/63dd1a90c2d5c51cd3a6699d119bd414_MD5.jpg",
+    "World/Australia-NewZealand/IELTS/Articles/_Attachments/171c556a430529598fe4f3aa2cba177c_MD5.jpg",
+    "World/Australia-NewZealand/IELTS/Articles/_Attachments/feeb999ccce0dc4c12353fcf87f2c9c9_MD5.jpg",
+    "World/Australia-NewZealand/IELTS/Articles/_Attachments/461a117ac08b6f9b456704f757ff5c83_MD5.jpg",
+    "Biology/Animals/Insects",
+    "Biology/Evolution/English",
+    "World/Australia-NewZealand/IELTS/Articles/Old",
+    "World/Culture",
+    "Biology/English",
+    "Economic/Printing",
+    "World/Printing",
+    "_Library/_PDF/Episode 216 Transcript - Listening Time.pdf",
+    "_Library/_PDF/928.-The-Abduction-Learn-English-with-a-Short-Story-1-1.pdf",
+    "World/Human Rights/Universal Declaration of Human Rights - United Nations - [www.un.org].pdf",
+    "物理/240525.canvas",
+    "数学/Untitled.canvas",
+    "Test Canvas.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
+  ]
+}
