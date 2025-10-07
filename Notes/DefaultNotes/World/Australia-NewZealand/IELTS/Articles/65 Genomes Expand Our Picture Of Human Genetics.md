@@ -5,144 +5,144 @@ https://www.sciencefriday.com/segments/65-genomes-expand-our-picture-of-human-ge
 
 ---
 
-| WORD           | IPA                                                  |      |       |
-| -------------- | ---------------------------------------------------- | ---- | ----- |
-| Genome         | uk  /ˈdʒiː.nəʊm/ us  /ˈdʒiː.noʊm/                    | 1    |       |
-| draft          | uk  /drɑːft/ us  /dræft/                             |      |       |
-| race           | uk  /reɪs/ us  /reɪs/                                |      |       |
-| fuller         |                                                      |      |       |
-| resequencing   |                                                      |      |       |
-| reassembling   | uk  /ˌriː.əˈsem.bəl/ us  /ˌriː.əˈsem.bəl/            | 1    |       |
-| lessen         | uk  /ˈles.ən/ us  /ˈles.ən/                          |      |       |
-| typos          | uk  /ˈtaɪ.pəʊ/ us  /ˈtaɪ.poʊ/                        |      |       |
-| firm           | uk  /fɜːm/ us  /fɝːm/                                |      |       |
-| puzzle         | uk  /ˈpʌz.əl/ us  /ˈpʌz.əl/                          |      |       |
-| Christine      | /ˈkrɪstiːn/                                          |      |       |
-| Beck           | uk  /bek/ us  /bek/                                  |      |       |
-| genetics       | uk  /dʒəˈnet.ɪks/ us  /dʒəˈnet̬.ɪks/                 |      |       |
-| Connecticut    | uk  /kəˈnet.ɪ.kət/ us  /kəˈnet̬.ɪ.kət/               | 1    |       |
-| Laboratory     | uk  /ləˈbɒr.ə.tər.i/ us  /ˈlæb.rə.tɔːr.i/            |      |       |
-| Farmington     |                                                      |      |       |
-| Glennis        |                                                      |      |       |
-| Logsdon        |                                                      |      |       |
-| assistant      | uk  /əˈsɪs.tənt/ us  /əˈsɪs.tənt/                    |      |       |
-| Epigenetics    | uk  /ˌep.ɪ.dʒəˈnet.ɪks/ us  /ˌep.ɪ.dʒəˈnet̬.ɪks/     |      |       |
-| Institute      | uk  /ˈɪn.stɪ.tʃuːt/ us  /ˈɪn.stə.tuːt/               |      |       |
-| Pennsylvania   | uk  /ˌpen.sɪlˈveɪ.ni.ə/ us  /ˌpen.səlˈveɪ.ni.ə/      | 1    |       |
-| Philly         |                                                      |      |       |
-| Adam           | uk  /ˈæd.əm/ us  /ˈæd.əm/                            | 1    |       |
-| Phillippy      |                                                      |      |       |
-| investigator   | uk  /ɪnˈves.tɪ.ɡeɪ.tər/ us  /ɪnˈves.tə.ɡeɪ.t̬ɚ/      |      |       |
-| Genomics       | uk  /dʒəˈnəʊm.ɪks/ us  /dʒəˈnoʊm.ɪks/                |      |       |
-| Bethesda       |                                                      |      |       |
-| Maryland       | uk  /ˈmeə.ri.lænd/ us  /ˈmer.ə.lənd/                 |      |       |
-| assemblies     | uk  /əˈsem.bli/ us  /əˈsem.bli/                      |      |       |
-| diverse        | uk  /daɪˈvɜːs/ us  /dɪˈvɝːs/                         |      |       |
-| chromosomes    | uk  /ˈkrəʊ.mə.səʊm/ us  /ˈkroʊ.mə.soʊm/              |      |       |
-| plaguing       | uk  /pleɪɡ/ us  /pleɪɡ/                              |      |       |
-| variation      | uk  /ˌveə.riˈeɪ.ʃən/ us  /ˌver.iˈeɪ.ʃən/             |      |       |
-| amongst        | uk  /əˈmʌŋst/ us  /əˈmʌŋst/                          |      | among |
-| centromeres    |                                                      |      |       |
-| essential      | uk  /ɪˈsen.ʃəl/ us  /ɪˈsen.ʃəl/                      |      |       |
-| chromosomal    | uk  /ˌkrəʊ.məˈsəʊ.məl/ us  /ˌkroʊ.məˈsoʊ.məl/        |      |       |
-| segregated     | uk  /ˈseɡ.rɪ.ɡeɪt/ us  /ˈseɡ.rə.ɡeɪt/                |      |       |
-| mitosis        | uk  /maɪˈtəʊ.sɪs/ us  /maɪˈtoʊ.sɪs/                  |      |       |
-| meiosis        | uk  /maɪˈəʊ.sɪs/ us  /maɪˈoʊ.sɪs/                    |      |       |
-| repetitive     | uk  /rɪˈpet.ə.tɪv/ us  /rɪˈpet̬.ə.t̬ɪv/              | 2    |       |
-| entirety       | uk  /ɪnˈtaɪə.rə.ti/ us  /ɪnˈtaɪr.ə.t̬i/              |      |       |
-| traverse       | uk  /trəˈvɜːs/ us  /trəˈvɝːs/                        | 1    |       |
-| maximize       | uk  /ˈmæk.sɪ.maɪz/ us  /ˈmæk.sə.maɪz/                |      |       |
-| novel          | uk  /ˈnɒv.əl/ us  /ˈnɑː.vəl/                         |      |       |
-| discovered     | uk  /dɪˈskʌv.ər/ us  /dɪˈskʌv.ɚ/                     |      |       |
-| bunch          | uk  /bʌntʃ/ us  /bʌntʃ/                              |      |       |
-| investment     | uk  /ɪnˈvest.mənt/ us  /ɪnˈvest.mənt/                |      |       |
-| topology       | uk  /tɒpˈɒl.ə.dʒi/ us  /təˈpɑː.lə.dʒi/               | TODO |       |
-| pathogenic     | uk  /ˌpæθ.əˈdʒen.ɪk/ us  /ˌpæθ.əˈdʒen.ɪk/            |      |       |
-| diversity      | uk  /daɪˈvɜː.sə.ti/ us  /dɪˈvɝː.sə.t̬i/              |      |       |
-| similarity     | uk  /ˌsɪm.ɪˈlær.ə.ti/ us  /ˌsɪm.əˈler.ə.t̬i/         |      |       |
-| dissimilarity  |                                                      |      |       |
-| cataloged      | uk  /ˈkæt.əl.ɒɡ/ us  /ˈkæt̬.əl.ɑːɡ/                  |      |       |
-| versus         | uk  /ˈvɜː.səs/ us  /ˈvɝː.səs/                        |      |       |
-| decent         | uk  /ˈdiː.sənt/ us  /ˈdiː.sənt/                      |      |       |
-| loci           | uk  /ˈləʊ.saɪ/ us  /ˈloʊ.saɪ/                        |      | locus |
-| comprised      | uk  /kəmˈpraɪz/ us  /kəmˈpraɪz/                      |      |       |
-| uncover        | uk  /ʌnˈkʌv.ər/ us  /ʌnˈkʌv.ɚ/                       |      |       |
-| heretofore     | uk  /ˌhɪə.tuːˈfɔːr/ us  /ˌhɪr.tuːˈfɔːr/              |      |       |
-| structural     | uk  /ˈstrʌk.tʃər.əl/ us  /ˈstrʌk.tʃɚ.əl/             |      |       |
-| consortium     | uk  /kənˈsɔː.ti.əm/ us  /kənˈsɔːr.ʃəm/               |      |       |
-| compendium     | uk  /kəmˈpen.di.əm/ us  /kəmˈpen.di.əm/              |      |       |
-| machinery      | uk  /məˈʃiː.nər.i/ us  /məˈʃiː.nɚ.i/                 |      |       |
-| tripos         | uk  /ˈtraɪ.pɒs/ us  /ˈtraɪ.pɑːs/                     |      |       |
-| analogy        | uk  /əˈnæl.ə.dʒi/ us  /əˈnæl.ə.dʒi/                  |      |       |
-| jigsaw         | uk  /ˈdʒɪɡ.sɔː/ us  /ˈdʒɪɡ.sɑː/                      |      |       |
-| Telomere       | uk  /ˈtiː.lə.mɪər/ us  /ˈte.lə.mɪr/                  |      |       |
-| computational  | uk  /kɒm.pjəˈteɪ.ʃən.əl/ us  /kɑːm.pjəˈteɪ.ʃən.əl/   |      |       |
-| sheer          | uk  /ʃɪər/ us  /ʃɪr/                                 |      |       |
-| quantity       | uk  /ˈkwɒn.tə.ti/ us  /ˈkwɑːn.t̬ə.t̬i/               |      |       |
-| billions       | uk  /ˈbɪl.jən/ us  /ˈbɪl.jən/                        |      |       |
-| Obviously      | uk  /ˈɒb.vi.əs.li/ us  /ˈɑːb.vi.əs.li/               |      |       |
-| ish            | uk  /ɪʃ/ us  /ɪʃ/                                    |      |       |
-| exponentially  | uk  /ˌek.spəˈnen.ʃəl.i/ us  /ˌek.spoʊˈnen.ʃəl.i/     |      |       |
-| mutable        | uk  /ˈmjuː.tə.bəl/ us  /ˈmjuː.t̬ə.bəl/               |      |       |
-| identical      | uk  /aɪˈden.tɪ.kəl/ us  /aɪˈden.t̬ə.kəl/             |      |       |
-| despite        | uk  /dɪˈspaɪt/ us  /dɪˈspaɪt/                        |      |       |
-| variability    | uk  /ˌveə.ri.əˈbɪl.ə.ti/ us  /ˌver.i.əˈbɪl.ə.t̬i/    |      |       |
-| segregate      | uk  /ˈseɡ.rɪ.ɡeɪt/ us  /ˈseɡ.rə.ɡeɪt/                |      |       |
-| stuff          | uk  /stʌf/ us  /stʌf/                                |      |       |
-| junk           | uk  /dʒʌŋk/ us  /dʒʌŋk/                              |      |       |
-| shine          | uk  /ʃaɪn/ us  /ʃaɪn/                                |      |       |
-| modalities     | uk  /məʊˈdæl.ə.ti/ us  /moʊˈdæl.ə.t̬i/               |      |       |
-| segmental      | uk  /seɡˈmen.təl/ us  /seɡˈmen.t̬əl/                 |      |       |
-| duplications   | uk  /ˌdjuː.plɪˈkeɪ.ʃən/ us  /ˌduː.pləˈkeɪ.ʃən/       |      |       |
-| infer          | uk  /ɪnˈfɜːr/ us  /ɪnˈfɝː/                           |      |       |
-| mutations      | uk  /mjuːˈteɪ.ʃən/ us  /mjuːˈteɪ.ʃən/                |      |       |
-| genes          | uk  /dʒiːn/ us  /dʒiːn/                              |      |       |
-| embedded       | uk  /ɪmˈbed.ɪd/ us  /ɪmˈbed.ɪd/                      |      |       |
-| cisregulatory  |                                                      |      |       |
-| downstream     | uk  /ˌdaʊnˈstriːm/ us  /ˌdaʊnˈstriːm/                |      |       |
-| quote          | uk  /kwəʊt/ us  /kwoʊt/                              |      |       |
-| unquote        | uk  /ʌnˈkwəʊt/ us  /ʌnˈkwoʊt/                        |      |       |
-| genetically    | uk  /dʒəˈnet.ɪ.kəl.i/ us  /dʒəˈnet̬.ɪ.kəl.i/         |      |       |
-| AlphaFold      |                                                      |      |       |
-| atypical       | uk  /ˌeɪˈtɪp.ɪ.kəl/ us  /ˌeɪˈtɪp.ɪ.kəl/              |      |       |
-| forth          | uk  /fɔːθ/ us  /fɔːrθ/                               |      |       |
-| tipping        | uk  /tɪp/ us  /tɪp/                                  |      |       |
-| mutate         | uk  /mjuːˈteɪt/ us  /mjuːˈteɪt/                      |      |       |
-| mutation       | uk  /mjuːˈteɪ.ʃən/ us  /mjuːˈteɪ.ʃən/                |      |       |
-| deleterious    | uk  /ˌdel.ɪˈtɪə.ri.əs/ us  /ˌdel.ɪˈtɪr.i.əs/         |      |       |
-| noncoding      |                                                      |      |       |
-| fraction       | uk  /ˈfræk.ʃən/ us  /ˈfræk.ʃən/                      |      |       |
-| majority       | uk  /məˈdʒɒr.ə.ti/ us  /məˈdʒɔː.rə.t̬i/              |      |       |
-| benign         | uk  /bɪˈnaɪn/ us  /bɪˈnaɪn/                          |      |       |
-| genetic        | uk  /dʒəˈnet.ɪk/ us  /dʒəˈnet̬.ɪk/                   |      |       |
-| electrical     | uk  /ɪˈlek.trɪ.kəl/ us  /ɪˈlek.trɪ.kəl/              |      |       |
-| optical        | uk  /ˈɒp.tɪ.kəl/ us  /ˈɑːp.tɪ.kəl/                   |      |       |
-| suspected      | uk  /səˈspek.tɪd/ us  /səˈspek.tɪd/                  |      |       |
-| pathogenicity  |                                                      |      |       |
-| announced      | uk  /əˈnaʊns/ us  /əˈnaʊns/                          |      |       |
-| hailed         | uk  /heɪl/ us  /heɪl/                                |      |       |
-| softball       | uk  /ˈsɒft.bɔːl/ us  /ˈsɑːft.bɑːl/                   |      |       |
-| inference      | uk  /ˈɪn.fər.əns/ us  /ˈɪn.fɚ.əns/                   |      |       |
-| Mendelian      |                                                      |      |       |
-| architecture   | uk  /ˈɑː.kɪ.tek.tʃər/ us  /ˈɑːr.kə.tek.tʃɚ/          |      |       |
-| penetrant      |                                                      |      |       |
-| tie            | uk  /taɪ/ us  /taɪ/                                  |      |       |
-| astronomically | uk  /ˌæs.trəˈnɒm.ɪ.kəl.i/ us  /ˌæs.trəˈnɑː.mɪ.kəl.i/ |      |       |
-| murkier        | uk  /ˈmɜː.ki/ us  /ˈmɝː.ki/                          |      |       |
-| territory      | uk  /ˈter.ɪ.tər.i/ us  /ˈter.ə.tɔːr.i/               |      |       |
-| combinatorics  |                                                      |      |       |
-| alleles        | uk  /əˈliːl/ us  /əˈliːl/                            |      |       |
-| predisposition | uk  /ˌpriː.dɪs.pəˈzɪʃ.ən/ us  /ˌpriː.dɪs.pəˈzɪʃ.ən/  |      |       |
-| environmental  | uk  /ɪnˌvaɪ.rəˈmen.təl/ us  /ɪnˌvaɪ.rəˈmen.t̬əl/     |      |       |
-| probably       | uk  /ˈprɒb.ə.bli/ us  /ˈprɑː.bə.bli/                 |      |       |
-| plumb          | uk  /plʌm/ us  /plʌm/                                |      |       |
-| aggregate      | uk  /ˈæɡ.rɪ.ɡət/ us  /ˈæɡ.rə.ɡət/                    |      |       |
-| remiss         | uk  /rɪˈmɪs/ us  /rɪˈmɪs/                            |      |       |
-| credit         | uk  /ˈkred.ɪt/ us  /ˈkred.ɪt/                        |      |       |
-| informative    | uk  /ɪnˈfɔː.mə.tɪv/ us  /ɪnˈfɔːr.mə.t̬ɪv/            |      |       |
-| institute      | uk  /ˈɪn.stɪ.tʃuːt/ us  /ˈɪn.stə.tuːt/               |      |       |
-| undergone      | uk  /ˌʌn.dəˈɡəʊ/ us  /ˌʌn.dɚˈɡoʊ/                    |      |       |
-| absolutely     | uk  /ˌæb.səˈluːt.li/ us  /ˌæb.səˈluːt.li/            |      |       |
+| WORD           | IPA                                                  |     |       |
+| -------------- | ---------------------------------------------------- | --- | ----- |
+| Genome         | uk  /ˈdʒiː.nəʊm/ us  /ˈdʒiː.noʊm/                    | 1   |       |
+| draft          | uk  /drɑːft/ us  /dræft/                             |     |       |
+| race           | uk  /reɪs/ us  /reɪs/                                |     |       |
+| fuller         |                                                      |     |       |
+| resequencing   |                                                      |     |       |
+| reassembling   | uk  /ˌriː.əˈsem.bəl/ us  /ˌriː.əˈsem.bəl/            | 1   |       |
+| lessen         | uk  /ˈles.ən/ us  /ˈles.ən/                          |     |       |
+| typos          | uk  /ˈtaɪ.pəʊ/ us  /ˈtaɪ.poʊ/                        |     |       |
+| firm           | uk  /fɜːm/ us  /fɝːm/                                |     |       |
+| puzzle         | uk  /ˈpʌz.əl/ us  /ˈpʌz.əl/                          |     |       |
+| Christine      | /ˈkrɪstiːn/                                          |     |       |
+| Beck           | uk  /bek/ us  /bek/                                  |     |       |
+| genetics       | uk  /dʒəˈnet.ɪks/ us  /dʒəˈnet̬.ɪks/                 |     |       |
+| Connecticut    | uk  /kəˈnet.ɪ.kət/ us  /kəˈnet̬.ɪ.kət/               | 1   |       |
+| Laboratory     | uk  /ləˈbɒr.ə.tər.i/ us  /ˈlæb.rə.tɔːr.i/            |     |       |
+| Farmington     | /fˈɑː.ɹm.ɪŋtən/                                      |     |       |
+| Glennis        | /ˈɡlɛnɪs/                                            |     |       |
+| Logsdon        | uk  /ˈlɒɡzdən/ us  /ˈlɑːɡzdən/                       |     |       |
+| assistant      | uk  /əˈsɪs.tənt/ us  /əˈsɪs.tənt/                    |     |       |
+| Epigenetics    | uk  /ˌep.ɪ.dʒəˈnet.ɪks/ us  /ˌep.ɪ.dʒəˈnet̬.ɪks/     |     |       |
+| Institute      | uk  /ˈɪn.stɪ.tʃuːt/ us  /ˈɪn.stə.tuːt/               |     |       |
+| Pennsylvania   | uk  /ˌpen.sɪlˈveɪ.ni.ə/ us  /ˌpen.səlˈveɪ.ni.ə/      | 1   |       |
+| Philly         | /ˈfɪli/                                              |     |       |
+| Adam           | uk  /ˈæd.əm/ us  /ˈæd.əm/                            | 1   |       |
+| Phillippy      | /fɪˈlɪpi/                                            |     |       |
+| investigator   | uk  /ɪnˈves.tɪ.ɡeɪ.tər/ us  /ɪnˈves.tə.ɡeɪ.t̬ɚ/      |     |       |
+| Genomics       | uk  /dʒəˈnəʊm.ɪks/ us  /dʒəˈnoʊm.ɪks/                |     |       |
+| Bethesda       | uk   /bɪˈθɛzdə/ us  /bəˈθɛzdə/                       |     |       |
+| Maryland       | uk  /ˈmeə.ri.lænd/ us  /ˈmer.ə.lənd/                 |     |       |
+| assemblies     | uk  /əˈsem.bli/ us  /əˈsem.bli/                      |     |       |
+| diverse        | uk  /daɪˈvɜːs/ us  /dɪˈvɝːs/                         |     |       |
+| chromosomes    | uk  /ˈkrəʊ.mə.səʊm/ us  /ˈkroʊ.mə.soʊm/              |     |       |
+| plaguing       | uk  /pleɪɡ/ us  /pleɪɡ/                              |     |       |
+| variation      | uk  /ˌveə.riˈeɪ.ʃən/ us  /ˌver.iˈeɪ.ʃən/             |     |       |
+| amongst        | uk  /əˈmʌŋst/ us  /əˈmʌŋst/                          |     | among |
+| centromeres    | uk  /ˈsɛntɹə(ʊ)mɪə/ us  /ˈsɛntɹəˌmiɚ/                |     |       |
+| essential      | uk  /ɪˈsen.ʃəl/ us  /ɪˈsen.ʃəl/                      |     |       |
+| chromosomal    | uk  /ˌkrəʊ.məˈsəʊ.məl/ us  /ˌkroʊ.məˈsoʊ.məl/        |     |       |
+| segregated     | uk  /ˈseɡ.rɪ.ɡeɪt/ us  /ˈseɡ.rə.ɡeɪt/                |     |       |
+| mitosis        | uk  /maɪˈtəʊ.sɪs/ us  /maɪˈtoʊ.sɪs/                  |     |       |
+| meiosis        | uk  /maɪˈəʊ.sɪs/ us  /maɪˈoʊ.sɪs/                    |     |       |
+| repetitive     | uk  /rɪˈpet.ə.tɪv/ us  /rɪˈpet̬.ə.t̬ɪv/              | 2   |       |
+| entirety       | uk  /ɪnˈtaɪə.rə.ti/ us  /ɪnˈtaɪr.ə.t̬i/              |     |       |
+| traverse       | uk  /trəˈvɜːs/ us  /trəˈvɝːs/                        | 1   |       |
+| maximize       | uk  /ˈmæk.sɪ.maɪz/ us  /ˈmæk.sə.maɪz/                |     |       |
+| novel          | uk  /ˈnɒv.əl/ us  /ˈnɑː.vəl/                         |     |       |
+| discovered     | uk  /dɪˈskʌv.ər/ us  /dɪˈskʌv.ɚ/                     |     |       |
+| bunch          | uk  /bʌntʃ/ us  /bʌntʃ/                              |     |       |
+| investment     | uk  /ɪnˈvest.mənt/ us  /ɪnˈvest.mənt/                |     |       |
+| topology       | uk  /tɒpˈɒl.ə.dʒi/ us  /təˈpɑː.lə.dʒi/               |     |       |
+| pathogenic     | uk  /ˌpæθ.əˈdʒen.ɪk/ us  /ˌpæθ.əˈdʒen.ɪk/            |     |       |
+| diversity      | uk  /daɪˈvɜː.sə.ti/ us  /dɪˈvɝː.sə.t̬i/              |     |       |
+| similarity     | uk  /ˌsɪm.ɪˈlær.ə.ti/ us  /ˌsɪm.əˈler.ə.t̬i/         |     |       |
+| dissimilarity  | uk  /ˌdɪsɪmɪˈlæɹɪti/ us  /ˌdɪsɪməˈlærəti/            |     |       |
+| cataloged      | uk  /ˈkæt.əl.ɒɡ/ us  /ˈkæt̬.əl.ɑːɡ/                  |     |       |
+| versus         | uk  /ˈvɜː.səs/ us  /ˈvɝː.səs/                        |     |       |
+| decent         | uk  /ˈdiː.sənt/ us  /ˈdiː.sənt/                      |     |       |
+| loci           | uk  /ˈləʊ.saɪ/ us  /ˈloʊ.saɪ/                        |     | locus |
+| comprised      | uk  /kəmˈpraɪz/ us  /kəmˈpraɪz/                      |     |       |
+| uncover        | uk  /ʌnˈkʌv.ər/ us  /ʌnˈkʌv.ɚ/                       |     |       |
+| heretofore     | uk  /ˌhɪə.tuːˈfɔːr/ us  /ˌhɪr.tuːˈfɔːr/              |     |       |
+| structural     | uk  /ˈstrʌk.tʃər.əl/ us  /ˈstrʌk.tʃɚ.əl/             |     |       |
+| consortium     | uk  /kənˈsɔː.ti.əm/ us  /kənˈsɔːr.ʃəm/               |     |       |
+| compendium     | uk  /kəmˈpen.di.əm/ us  /kəmˈpen.di.əm/              |     |       |
+| machinery      | uk  /məˈʃiː.nər.i/ us  /məˈʃiː.nɚ.i/                 |     |       |
+| tripos         | uk  /ˈtraɪ.pɒs/ us  /ˈtraɪ.pɑːs/                     |     |       |
+| analogy        | uk  /əˈnæl.ə.dʒi/ us  /əˈnæl.ə.dʒi/                  |     |       |
+| jigsaw         | uk  /ˈdʒɪɡ.sɔː/ us  /ˈdʒɪɡ.sɑː/                      |     |       |
+| Telomere       | uk  /ˈtiː.lə.mɪər/ us  /ˈte.lə.mɪr/                  |     |       |
+| computational  | uk  /kɒm.pjəˈteɪ.ʃən.əl/ us  /kɑːm.pjəˈteɪ.ʃən.əl/   |     |       |
+| sheer          | uk  /ʃɪər/ us  /ʃɪr/                                 |     |       |
+| quantity       | uk  /ˈkwɒn.tə.ti/ us  /ˈkwɑːn.t̬ə.t̬i/               |     |       |
+| billions       | uk  /ˈbɪl.jən/ us  /ˈbɪl.jən/                        |     |       |
+| Obviously      | uk  /ˈɒb.vi.əs.li/ us  /ˈɑːb.vi.əs.li/               |     |       |
+| ish            | uk  /ɪʃ/ us  /ɪʃ/                                    |     |       |
+| exponentially  | uk  /ˌek.spəˈnen.ʃəl.i/ us  /ˌek.spoʊˈnen.ʃəl.i/     |     |       |
+| mutable        | uk  /ˈmjuː.tə.bəl/ us  /ˈmjuː.t̬ə.bəl/               |     |       |
+| identical      | uk  /aɪˈden.tɪ.kəl/ us  /aɪˈden.t̬ə.kəl/             |     |       |
+| despite        | uk  /dɪˈspaɪt/ us  /dɪˈspaɪt/                        |     |       |
+| variability    | uk  /ˌveə.ri.əˈbɪl.ə.ti/ us  /ˌver.i.əˈbɪl.ə.t̬i/    |     |       |
+| segregate      | uk  /ˈseɡ.rɪ.ɡeɪt/ us  /ˈseɡ.rə.ɡeɪt/                |     |       |
+| stuff          | uk  /stʌf/ us  /stʌf/                                |     |       |
+| junk           | uk  /dʒʌŋk/ us  /dʒʌŋk/                              |     |       |
+| shine          | uk  /ʃaɪn/ us  /ʃaɪn/                                |     |       |
+| modalities     | uk  /məʊˈdæl.ə.ti/ us  /moʊˈdæl.ə.t̬i/               |     |       |
+| segmental      | uk  /seɡˈmen.təl/ us  /seɡˈmen.t̬əl/                 |     |       |
+| duplications   | uk  /ˌdjuː.plɪˈkeɪ.ʃən/ us  /ˌduː.pləˈkeɪ.ʃən/       |     |       |
+| infer          | uk  /ɪnˈfɜːr/ us  /ɪnˈfɝː/                           |     |       |
+| mutations      | uk  /mjuːˈteɪ.ʃən/ us  /mjuːˈteɪ.ʃən/                |     |       |
+| genes          | uk  /dʒiːn/ us  /dʒiːn/                              |     |       |
+| embedded       | uk  /ɪmˈbed.ɪd/ us  /ɪmˈbed.ɪd/                      |     |       |
+| cisregulatory  |                                                      |     |       |
+| downstream     | uk  /ˌdaʊnˈstriːm/ us  /ˌdaʊnˈstriːm/                |     |       |
+| quote          | uk  /kwəʊt/ us  /kwoʊt/                              |     |       |
+| unquote        | uk  /ʌnˈkwəʊt/ us  /ʌnˈkwoʊt/                        |     |       |
+| genetically    | uk  /dʒəˈnet.ɪ.kəl.i/ us  /dʒəˈnet̬.ɪ.kəl.i/         |     |       |
+| AlphaFold      |                                                      |     |       |
+| atypical       | uk  /ˌeɪˈtɪp.ɪ.kəl/ us  /ˌeɪˈtɪp.ɪ.kəl/              |     |       |
+| forth          | uk  /fɔːθ/ us  /fɔːrθ/                               |     |       |
+| tipping        | uk  /tɪp/ us  /tɪp/                                  |     |       |
+| mutate         | uk  /mjuːˈteɪt/ us  /mjuːˈteɪt/                      |     |       |
+| mutation       | uk  /mjuːˈteɪ.ʃən/ us  /mjuːˈteɪ.ʃən/                |     |       |
+| deleterious    | uk  /ˌdel.ɪˈtɪə.ri.əs/ us  /ˌdel.ɪˈtɪr.i.əs/         |     |       |
+| noncoding      |                                                      |     |       |
+| fraction       | uk  /ˈfræk.ʃən/ us  /ˈfræk.ʃən/                      |     |       |
+| majority       | uk  /məˈdʒɒr.ə.ti/ us  /məˈdʒɔː.rə.t̬i/              |     |       |
+| benign         | uk  /bɪˈnaɪn/ us  /bɪˈnaɪn/                          |     |       |
+| genetic        | uk  /dʒəˈnet.ɪk/ us  /dʒəˈnet̬.ɪk/                   |     |       |
+| electrical     | uk  /ɪˈlek.trɪ.kəl/ us  /ɪˈlek.trɪ.kəl/              |     |       |
+| optical        | uk  /ˈɒp.tɪ.kəl/ us  /ˈɑːp.tɪ.kəl/                   |     |       |
+| suspected      | uk  /səˈspek.tɪd/ us  /səˈspek.tɪd/                  |     |       |
+| pathogenicity  |                                                      |     |       |
+| announced      | uk  /əˈnaʊns/ us  /əˈnaʊns/                          |     |       |
+| hailed         | uk  /heɪl/ us  /heɪl/                                |     |       |
+| softball       | uk  /ˈsɒft.bɔːl/ us  /ˈsɑːft.bɑːl/                   |     |       |
+| inference      | uk  /ˈɪn.fər.əns/ us  /ˈɪn.fɚ.əns/                   |     |       |
+| Mendelian      |                                                      |     |       |
+| architecture   | uk  /ˈɑː.kɪ.tek.tʃər/ us  /ˈɑːr.kə.tek.tʃɚ/          |     |       |
+| penetrant      |                                                      |     |       |
+| tie            | uk  /taɪ/ us  /taɪ/                                  |     |       |
+| astronomically | uk  /ˌæs.trəˈnɒm.ɪ.kəl.i/ us  /ˌæs.trəˈnɑː.mɪ.kəl.i/ |     |       |
+| murkier        | uk  /ˈmɜː.ki/ us  /ˈmɝː.ki/                          |     |       |
+| territory      | uk  /ˈter.ɪ.tər.i/ us  /ˈter.ə.tɔːr.i/               |     |       |
+| combinatorics  |                                                      |     |       |
+| alleles        | uk  /əˈliːl/ us  /əˈliːl/                            |     |       |
+| predisposition | uk  /ˌpriː.dɪs.pəˈzɪʃ.ən/ us  /ˌpriː.dɪs.pəˈzɪʃ.ən/  |     |       |
+| environmental  | uk  /ɪnˌvaɪ.rəˈmen.təl/ us  /ɪnˌvaɪ.rəˈmen.t̬əl/     |     |       |
+| probably       | uk  /ˈprɒb.ə.bli/ us  /ˈprɑː.bə.bli/                 |     |       |
+| plumb          | uk  /plʌm/ us  /plʌm/                                |     |       |
+| aggregate      | uk  /ˈæɡ.rɪ.ɡət/ us  /ˈæɡ.rə.ɡət/                    |     |       |
+| remiss         | uk  /rɪˈmɪs/ us  /rɪˈmɪs/                            |     |       |
+| credit         | uk  /ˈkred.ɪt/ us  /ˈkred.ɪt/                        |     |       |
+| informative    | uk  /ɪnˈfɔː.mə.tɪv/ us  /ɪnˈfɔːr.mə.t̬ɪv/            |     |       |
+| institute      | uk  /ˈɪn.stɪ.tʃuːt/ us  /ˈɪn.stə.tuːt/               |     |       |
+| undergone      | uk  /ˌʌn.dəˈɡəʊ/ us  /ˌʌn.dɚˈɡoʊ/                    |     |       |
+| absolutely     | uk  /ˌæb.səˈluːt.li/ us  /ˌæb.səˈluːt.li/            |     |       |
 
 ---
 
@@ -172,7 +172,7 @@ IRA FLATOW: Interesting. Dr. Beck, tell me more about the 65 <span style="color:
 
 CHRISTINE BECK: Sure. The 65 samples were actually part of the 1000 Genomes Project. So the samples are from around the world. And basically, with data from previous sequencing projects, we had a good handle on how much variation there was between individual samples and a reference genome. So therefore, we chose cell lines from individuals that would <span style="color:rgb(255, 0, 0)">maximize</span> the amount of <span style="color:rgb(255, 0, 0)">novel</span> sequence variation that was <span style="color:rgb(255, 0, 0)">discovered</span> in our work because if we sequenced a <span style="color:rgb(255, 0, 0)">bunch</span> of individuals that were really, really similar, we’d have less return on our <span style="color:rgb(255, 0, 0)">investment</span> for sequencing each individual person.
 
-So we sequenced these 65 people, and from them, we discovered a large amount of DNA variation from person to person. And part of the reason why that’s important is because we don’t really have a good handle on how much DNA variation there is in some of these complex regions of the genome. So without a good understanding of that kind of background <span style="color:rgb(255, 0, 0)">topology</span> of the genome, it’s really, really hard to separate benign differences in the population from <span style="color:rgb(255, 0, 0)">pathogenic</span>.
+So we sequenced these 65 people, and from them, we discovered a large amount of DNA variation from person to person. And part of the reason why that’s important is because we don’t really have a good handle on how much DNA variation there is in some of these complex regions of the genome. So without a good understanding of that kind of background <span style="color:rgb(255, 0, 0)">topology</span> of the genome, it’s really, really hard to separate <span style="color:rgb(255, 0, 0)">benign</span> differences in the population from <span style="color:rgb(255, 0, 0)">pathogenic</span>.
 
 IRA FLATOW: So you really did find <span style="color:rgb(255, 0, 0)">diversity</span>, <span style="color:rgb(255, 0, 0)">similarity</span>, <span style="color:rgb(255, 0, 0)">dissimilarity</span> in all these different genomes?
 
@@ -209,6 +209,8 @@ GLENNIS LOGSDON: It is. It is exactly what you would call junk DNA. But we know 
 CHRISTINE BECK: I think that that’s kind of an important part to touch on because I think repeats of all classes really <span style="color:rgb(255, 0, 0)">shine</span> with these novel techniques and novel sequencing <span style="color:rgb(255, 0, 0)">modalities</span>, as well as the assemblies. So both the centromeric repeats that <span style="color:rgb(255, 0, 0)">Glennis</span> studied, as well as <span style="color:rgb(255, 0, 0)">segmental</span> <span style="color:rgb(255, 0, 0)">duplications</span> and complex kind of different ways of arraying those puzzle pieces, from beginning to end, have begun to come to light with these new sequences.
 
 And from that, you can <span style="color:rgb(255, 0, 0)">infer</span> whether or not the <span style="color:rgb(255, 0, 0)">mutations</span> or the differences between these people have actually affected the coding sequences of <span style="color:rgb(255, 0, 0)">genes</span> <span style="color:rgb(255, 0, 0)">embedded</span> in these repeats or whether or not it might have changed the <span style="color:rgb(255, 0, 0)">cisregulatory</span> landscape. Like, let’s say, the ability to turn a <span style="color:rgb(255, 0, 0)">gene</span> off or turn it up to 11 is also altered between some of these genomes. So getting a good picture of that <span style="color:rgb(255, 0, 0)">repetitive</span> nature of the underlying sequence is really, really key to understanding differences in function <span style="color:rgb(255, 0, 0)">downstream</span>.
+
+---
 
 IRA FLATOW: Turning a gene up to 11 is something we haven’t spoken about before. How much data do you need to have to tell if something is, <span style="color:rgb(255, 0, 0)">quote</span> <span style="color:rgb(255, 0, 0)">unquote</span>, “normal” <span style="color:rgb(255, 0, 0)">genetically</span>? I just throw that out to any of you.
 
