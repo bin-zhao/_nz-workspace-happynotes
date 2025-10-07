@@ -937,10 +937,53 @@ Would you like me to make a **small comparison chart with examples** so you can 
 
 ---
 
+## Vegan
 
+A person who does not eat or use any animal products, such as meat, fish, eggs, cheese, or leather.
 
+---
 
+## Crack
 
+https://dictionary.cambridge.org/dictionary/english/crack?q=cracks
+
+---
+
+## Collapse
+
+https://dictionary.cambridge.org/dictionary/english/crack?q=cracks
+
+To fall down suddenly because of pressure or having no strength or support.
+
+If someone collapses, they fall down because of being sick or weak.
+
+To fold something into a smaller shape, usually so it can be stored, or (especially of furniture) to fold in this way.
+
+(of people and business) To suddenly be unable to continue or work correctly.
+
+The sudden failure of a system, organization, business, etc..
+
+The sudden falling movement of a person or structure that has become too weak to stand.
+
+To fall down suddenly, or to cause to fall down.
+
+To be unable to continue or to stay in operation; fail.
+
+An inability to continue or to stay in operation.
+
+Collapse can also refer to an attack of extreme physical weakness or unconsciousness in a person.
+
+To suddenly fail or become unable to continue.
+
+To suddenly fall to a much lower level.
+
+---
+
+## Leaf Lobes
+
+![[b78eff1fca8a12a66448cc657f1c3255_MD5.png]]
+
+---
 
 
 

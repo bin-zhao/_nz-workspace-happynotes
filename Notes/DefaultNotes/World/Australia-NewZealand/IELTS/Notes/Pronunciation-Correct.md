@@ -299,6 +299,7 @@
 | mon<span style="color:rgb(255, 0, 0)">u</span>ment                                                | uk  /ˈmɒn.ju.mənt/ us  /ˈmɑː.nju.mənt/             |     |
 | mass                                                                                              | uk  /mæs/ us  /mæs/                                |     |
 | m<span style="color:rgb(255, 0, 0)">e</span>chanical                                              | uk  /məˈkæn.ɪ.kəl/ us  /məˈkæn.ɪ.kəl/              |     |
+| medi<span style="color:rgb(255, 0, 0)">c</span>ine                                                | uk  /ˈmed.ɪ.sən/ /ˈmed.sən/ us  /ˈmed.ɪ.sən/       | 3   |
 | m<span style="color:rgb(255, 0, 0)">a</span>j<span style="color:rgb(255, 0, 0)">e</span>sty       | uk  /ˈmædʒ.ə.sti/ us  /ˈmædʒ.ə.sti/                |     |
 | m<span style="color:rgb(255, 0, 0)">o</span>rale                                                  | uk  /məˈrɑːl/ us  /məˈræl/                         |     |
 | measu<span style="color:rgb(255, 0, 0)">ring</span>                                               | uk /ˈmɛʒ(ə)rɪŋ/ us /ˈmɛʒ(ə)rɪŋ/                    |     |
