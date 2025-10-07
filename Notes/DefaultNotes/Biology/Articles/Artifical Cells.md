@@ -1,4 +1,10 @@
 
+---
+
+https://zhuanlan.zhihu.com/p/703881478
+
+---
+
 科学家造出了像活细胞一样的人造细胞！
 
 [中国科普博览](https://author.baidu.com/home?from=bjh_article&app_id=2687)2024-06-23 09:53北京
