@@ -152,17 +152,31 @@
             }
           },
           {
-            "id": "981167d41038e2f8",
+            "id": "9367f1c027aa081b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Evolution/Cells.md",
+                "file": "World/Australia-NewZealand/IELTS/Articles/65 Genomes Expand Our Picture Of Human Genetics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cells"
+              "title": "65 Genomes Expand Our Picture Of Human Genetics"
+            }
+          },
+          {
+            "id": "716d903b99a94dc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/Pathogen/Pathogen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pathogen"
             }
           }
         ],
@@ -323,24 +337,34 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "981167d41038e2f8",
+  "active": "9367f1c027aa081b",
   "lastOpenFiles": [
-    "Biology/Evolution/_Attachments/0fe7f6ac1046cbaa5109942fd30b221d_MD5.png",
-    "Biology/Evolution/DNA Replication.md",
+    "World/Australia-NewZealand/IELTS/Notes/Knowledge.md",
+    "World/Australia-NewZealand/IELTS/Articles/65 Genomes Expand Our Picture Of Human Genetics.md",
+    "Biology/Pathogen/Pathogen.md",
+    "Biology/Evolution/Misc.md",
+    "Biology/Evolution/Mendelian.md",
+    "Biology/Evolution/_Attachments/7a8301d8026bfcf0a284cf388ec76167_MD5.png",
+    "Biology/Pathogen/_Attachments/625204a2700a3aa282d31e4eb1b1d943_MD5.jpg",
+    "Biology/Pathogen/_Attachments/e1fc350caa824759e09df23983603c32_MD5.png",
+    "Biology/Pathogen/_Attachments/6c3506d8cfddcb00c4364652aa4ffb9b_MD5.png",
+    "Biology/Pathogen/_Attachments",
     "Biology/Evolution/Cells.md",
-    "Biology/Evolution/DNA Structure.md",
-    "Biology/Misc/Variety of Species.md",
-    "Biology/Misc/The connectome of an insect brain - Argument.md",
+    "Biology/Pathogen",
+    "World/Australia-NewZealand/IELTS/Notes/Names.md",
+    "Biology/Evolution/Developing.md",
+    "Biology/Physics/Dissipative System.md",
+    "Biology/Misc/Be made or developing.md",
+    "Biology/Misc/Embryology and Recapitulation Theory.md",
+    "Biology/Physics/Entropy.md",
+    "Biology/Misc/Sleep and Evolution.md",
     "Biology/Misc/Supposing cell is a sort of machine - Argument.md",
     "Biology/Misc/Supposing cell without membrane.md",
-    "Biology/Misc/Sleep and Evolution.md",
-    "Biology/Physics/Entropy.md",
-    "Biology/Misc/Embryology and Recapitulation Theory.md",
-    "Biology/Misc/Be made or developing.md",
-    "Biology/Physics/Dissipative System.md",
-    "Biology/Evolution/Developing.md",
-    "World/Australia-NewZealand/IELTS/Articles/65 Genomes Expand Our Picture Of Human Genetics.md",
-    "World/Australia-NewZealand/IELTS/Notes/Names.md",
+    "Biology/Misc/The connectome of an insect brain - Argument.md",
+    "Biology/Misc/Variety of Species.md",
+    "Biology/Evolution/DNA Structure.md",
+    "Biology/Evolution/DNA Replication.md",
+    "Biology/Evolution/_Attachments/0fe7f6ac1046cbaa5109942fd30b221d_MD5.png",
     "World/Australia-NewZealand/IELTS/Articles/Octopuses Use Suckers To ‘Taste’ Harmful Microbes.md",
     "Economic/e-Shop.md",
     "Biology/Evolution/RNA Replication.md",
@@ -348,9 +372,6 @@
     "Biology/Hello, Universe.md",
     "Biology/Planet Development.md",
     "Biology/Physics/Living.md",
-    "Biology/Animals/Misc/犬科 vs 猫科.md",
-    "Human/欧洲为什么能突破内卷？.md",
-    "Physics/240602.md",
     "Biology/Animals/Neural System",
     "Biology/Animals/Misc",
     "Biology/Articles",
@@ -361,16 +382,9 @@
     "World/Australia-NewZealand/IELTS/Notes/_Attachments/c730d9fe9c95130f9abc2a7303d577d1_MD5.png",
     "World/Australia-NewZealand/IELTS/Notes/_Attachments/18a34ede21cf67d74eb5228eb716ee29_MD5.webp",
     "World/Australia-NewZealand/IELTS/Notes/_Attachments/d1742c540dccc7500161ab50f322fcd4_MD5.webp",
-    "World/Australia-NewZealand/IELTS/Notes/_Attachments/3defaff2efaa3b4db550016890ef3a54_MD5.webp",
-    "World/Australia-NewZealand/IELTS/Notes/_Attachments/9c554b54ec1498080f47f1c5c3dd5130_MD5.webp",
-    "World/Australia-NewZealand/IELTS/Notes/_Attachments/041169c0dd99d3de84acb24cb927f4e2_MD5.webp",
-    "World/Australia-NewZealand/IELTS/Notes/_Attachments/53e7e633404b870f4e1a078525b22b33_MD5.webp",
-    "World/Australia-NewZealand/IELTS/Notes/_Attachments/9bd19d77122aeb3bbc4f0bcf3b79fc83_MD5.webp",
     "_Library/_PDF/ASA Firewall Fundamentals.pdf",
     "Biology/Animals/Insects",
     "Biology/Evolution/English",
-    "World/Australia-NewZealand/IELTS/Articles/Old",
-    "World/Culture",
     "物理/240525.canvas",
     "数学/Untitled.canvas",
     "Test Canvas.canvas",

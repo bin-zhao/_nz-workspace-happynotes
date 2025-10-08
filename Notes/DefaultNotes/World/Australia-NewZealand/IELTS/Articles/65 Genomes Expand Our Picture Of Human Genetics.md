@@ -5,6 +5,10 @@ https://www.sciencefriday.com/segments/65-genomes-expand-our-picture-of-human-ge
 
 ---
 
+TODO
+
+---
+
 | WORD           | IPA                                                  |     |       |
 | -------------- | ---------------------------------------------------- | --- | ----- |
 | Genome         | uk  /ˈdʒiː.nəʊm/ us  /ˈdʒiː.noʊm/                    | 1   |       |
@@ -98,19 +102,19 @@ https://www.sciencefriday.com/segments/65-genomes-expand-our-picture-of-human-ge
 | mutations      | uk  /mjuːˈteɪ.ʃən/ us  /mjuːˈteɪ.ʃən/                |     |       |
 | genes          | uk  /dʒiːn/ us  /dʒiːn/                              |     |       |
 | embedded       | uk  /ɪmˈbed.ɪd/ us  /ɪmˈbed.ɪd/                      |     |       |
-| cisregulatory  |                                                      |     |       |
+| cisregulatory  | uk  /sɪsˈrɛɡjʊlətəɹi/ us  /sɪsˈrɛɡjələˌtɔːri/        |     |       |
 | downstream     | uk  /ˌdaʊnˈstriːm/ us  /ˌdaʊnˈstriːm/                |     |       |
 | quote          | uk  /kwəʊt/ us  /kwoʊt/                              |     |       |
 | unquote        | uk  /ʌnˈkwəʊt/ us  /ʌnˈkwoʊt/                        |     |       |
 | genetically    | uk  /dʒəˈnet.ɪ.kəl.i/ us  /dʒəˈnet̬.ɪ.kəl.i/         |     |       |
-| AlphaFold      |                                                      |     |       |
+| AlphaFold      | uk  /ˈælfəˌfoʊld/ us  /ˈælfəˌfəʊld/                  |     |       |
 | atypical       | uk  /ˌeɪˈtɪp.ɪ.kəl/ us  /ˌeɪˈtɪp.ɪ.kəl/              |     |       |
 | forth          | uk  /fɔːθ/ us  /fɔːrθ/                               |     |       |
 | tipping        | uk  /tɪp/ us  /tɪp/                                  |     |       |
 | mutate         | uk  /mjuːˈteɪt/ us  /mjuːˈteɪt/                      |     |       |
 | mutation       | uk  /mjuːˈteɪ.ʃən/ us  /mjuːˈteɪ.ʃən/                |     |       |
 | deleterious    | uk  /ˌdel.ɪˈtɪə.ri.əs/ us  /ˌdel.ɪˈtɪr.i.əs/         |     |       |
-| noncoding      |                                                      |     |       |
+| noncoding      | uk  /ˌnɒnˈkəʊdɪŋ/ us  /ˌnɑnˈkoʊdɪŋ/                  |     |       |
 | fraction       | uk  /ˈfræk.ʃən/ us  /ˈfræk.ʃən/                      |     |       |
 | majority       | uk  /məˈdʒɒr.ə.ti/ us  /məˈdʒɔː.rə.t̬i/              |     |       |
 | benign         | uk  /bɪˈnaɪn/ us  /bɪˈnaɪn/                          |     |       |
@@ -118,14 +122,14 @@ https://www.sciencefriday.com/segments/65-genomes-expand-our-picture-of-human-ge
 | electrical     | uk  /ɪˈlek.trɪ.kəl/ us  /ɪˈlek.trɪ.kəl/              |     |       |
 | optical        | uk  /ˈɒp.tɪ.kəl/ us  /ˈɑːp.tɪ.kəl/                   |     |       |
 | suspected      | uk  /səˈspek.tɪd/ us  /səˈspek.tɪd/                  |     |       |
-| pathogenicity  |                                                      |     |       |
+| pathogenicity  | uk  /ˌpæθədʒəˈnɪsɪti/ us  /ˌpæθədʒəˈnɪsɪti/          |     |       |
 | announced      | uk  /əˈnaʊns/ us  /əˈnaʊns/                          |     |       |
 | hailed         | uk  /heɪl/ us  /heɪl/                                |     |       |
 | softball       | uk  /ˈsɒft.bɔːl/ us  /ˈsɑːft.bɑːl/                   |     |       |
 | inference      | uk  /ˈɪn.fər.əns/ us  /ˈɪn.fɚ.əns/                   |     |       |
-| Mendelian      |                                                      |     |       |
+| Mendelian      | uk  /mɛnˈdiːlɪən/ us  /mɛnˈdiliən/                   |     |       |
 | architecture   | uk  /ˈɑː.kɪ.tek.tʃər/ us  /ˈɑːr.kə.tek.tʃɚ/          |     |       |
-| penetrant      |                                                      |     |       |
+| penetrant      | uk  /ˈpɛnɪtrənt/ us  /ˈpɛnətrənt/                    |     |       |
 | tie            | uk  /taɪ/ us  /taɪ/                                  |     |       |
 | astronomically | uk  /ˌæs.trəˈnɒm.ɪ.kəl.i/ us  /ˌæs.trəˈnɑː.mɪ.kəl.i/ |     |       |
 | murkier        | uk  /ˈmɜː.ki/ us  /ˈmɝː.ki/                          |     |       |
